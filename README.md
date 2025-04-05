@@ -1,0 +1,2 @@
+# trading
+ai program
